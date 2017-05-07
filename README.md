@@ -1,5 +1,5 @@
 
-# inear_regression_demo
+# Linear_regression_demo
 
 LinearRegression with 2 Variables challenge. 
 
